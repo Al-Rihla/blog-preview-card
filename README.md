@@ -19,12 +19,12 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![This is the screenshot of the solution](./screenshot.PNG)
+![This is the screenshot of the solution](./Screenshot.PNG)
 
 ### Links
 
-- Solution URL: [Solution URL is here](https://www.frontendmentor.io/solutions/qr-component-7oI0AbP6TH)
-- Live Site URL: [Live site is here](https://al-rihla.github.io/development/)
+- Solution URL: [Solution URL is here]((https://www.frontendmentor.io/solutions/blog-preview-card-built-with-flex-MUHC3UgWqa))
+- Live Site URL: [Live site is here](https://al-rihla.github.io/blog-preview-card/)
 
 ## My process
 
@@ -37,6 +37,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Continued development
 
 - I want to focus on CSS media queries as well as responsive design.
+- I want to study a CSS framework and work on that.
 
 ### Useful resources
 
