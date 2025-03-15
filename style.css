@@ -92,8 +92,10 @@ p, h2, h3 {
     height: 40px;
 }
 
-.card > .author > h3 {
+.card > .author > p {
+    font-size: 1rem;
     padding: 12px;
+    font-weight: 800;
 }
 
 .attribution > p {
