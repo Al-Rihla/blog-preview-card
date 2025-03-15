@@ -23,7 +23,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution URL is here]((https://www.frontendmentor.io/solutions/blog-preview-card-built-with-flex-MUHC3UgWqa))
+- Solution URL: [Solution URL is here](https://www.frontendmentor.io/solutions/blog-preview-card-built-with-flex-MUHC3UgWqa)
 - Live Site URL: [Live site is here](https://al-rihla.github.io/blog-preview-card/)
 
 ## My process
